@@ -47,7 +47,7 @@ This curated list contains 2 awesome open-source projects with a total of 1.7K s
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
-<details><summary><b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥇24 ·  ⭐ 9K · 📉) - Build better UIs faster.</summary>
+<details><summary><b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥇24 ·  ⭐ 9K) - Build better UIs faster.</summary>
 
 
 ---
