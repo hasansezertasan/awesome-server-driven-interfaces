@@ -60,7 +60,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 </details>
 <details><summary><b><a href="https://github.com/Instawork/hyperview">hyperview</a></b> (🥉23 ·  ⭐ 1.7K) - Server-driven mobile apps with React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Instawork/hyperview) (👨‍💻 55 · 🔀 80 · 📦 23 · 📋 160 - 29% open · ⏱️ 05.02.2026):
+- [GitHub](https://github.com/Instawork/hyperview) (👨‍💻 55 · 🔀 80 · 📦 23 · 📋 160 - 29% open · ⏱️ 05.03.2026):
 
 	```
 	git clone https://github.com/Instawork/hyperview
