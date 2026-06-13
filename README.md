@@ -47,7 +47,7 @@ This curated list contains 2 awesome open-source projects with a total of 1.7K s
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
-<details><summary><b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥇25 ·  ⭐ 9K) - Build better UIs faster.</summary>
+<details><summary><b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥉21 ·  ⭐ 9K · 📉) - Build better UIs faster.</summary>
 
 
 ---
@@ -58,9 +58,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/Instawork/hyperview">hyperview</a></b> (🥉22 ·  ⭐ 1.7K · 📉) - Server-driven mobile apps with React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Instawork/hyperview">hyperview</a></b> (🥇22 ·  ⭐ 1.7K) - Server-driven mobile apps with React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Instawork/hyperview) (👨‍💻 55 · 🔀 80 · 📦 23 · 📋 160 - 29% open · ⏱️ 15.05.2026):
+- [GitHub](https://github.com/Instawork/hyperview) (👨‍💻 55 · 🔀 83 · 📦 23 · 📋 160 - 29% open · ⏱️ 15.05.2026):
 
 	```
 	git clone https://github.com/Instawork/hyperview
