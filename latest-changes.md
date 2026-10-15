@@ -2,7 +2,5 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥇21 ·  ⭐ 9K · 📈) - Build better UIs faster.
-- <b><a href="https://github.com/Instawork/hyperview">hyperview</a></b> (🥇21 ·  ⭐ 1.7K · 📈) - Server-driven mobile apps with React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/hasansezertasan/fastui-tutorials">fastui-tutorials</a></b> (🥉8 ·  ⭐ 31 · 📈) - Exploring FastUI features and capabilities with beginner-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Instawork/hyperview">hyperview</a></b> (🥇23 ·  ⭐ 1.7K · 📈) - Server-driven mobile apps with React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
